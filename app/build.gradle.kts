@@ -16,8 +16,8 @@ android {
         applicationId = "com.example.voiceagent"
         minSdk = 24
         targetSdk = 36
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.1"
 
         // The Cactus engine is shipped for arm64 only in this project.
         ndk {
