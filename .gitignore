@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Build output
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Signing material (never commit)
+*.jks
+*.keystore
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Downloaded models are never committed: the app fetches them at first launch.
+*.cact

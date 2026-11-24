@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Agent</string>
+    <string name="hold_to_talk">Hold to talk</string>
+    <string name="listening">Listening…</string>
+    <string name="heard">I heard</string>
+    <string name="action">Action</string>
+    <string name="permission_settings">Permission settings</string>
+    <string name="retry">Retry</string>
+</resources>
